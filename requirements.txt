@@ -1,0 +1,6 @@
+dnspython==2.3.0
+pymongo==4.3.3
+wincertstore==0.2
+pandas
+numpy
+-e .
